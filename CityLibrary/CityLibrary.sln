@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityLibrary", "CityLibrary\CityLibrary.csproj", "{4B72734F-EB95-429E-A13D-E36E27F9EC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityLibraryTest", "CityLibraryTest\CityLibraryTest.csproj", "{1A1703FC-9235-4524-B7E9-D0EF178018EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B72734F-EB95-429E-A13D-E36E27F9EC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B72734F-EB95-429E-A13D-E36E27F9EC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B72734F-EB95-429E-A13D-E36E27F9EC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B72734F-EB95-429E-A13D-E36E27F9EC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1703FC-9235-4524-B7E9-D0EF178018EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1703FC-9235-4524-B7E9-D0EF178018EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1703FC-9235-4524-B7E9-D0EF178018EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1703FC-9235-4524-B7E9-D0EF178018EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
